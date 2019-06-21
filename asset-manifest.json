@@ -1,0 +1,23 @@
+{
+  "main.css": "./static/css/main.1a235055.chunk.css",
+  "main.js": "./static/js/main.5b311188.chunk.js",
+  "main.js.map": "./static/js/main.5b311188.chunk.js.map",
+  "static/css/1.6a24770e.chunk.css": "./static/css/1.6a24770e.chunk.css",
+  "static/js/1.0fdbd548.chunk.js": "./static/js/1.0fdbd548.chunk.js",
+  "static/js/1.0fdbd548.chunk.js.map": "./static/js/1.0fdbd548.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/index.css": "./static/media/roboto-latin-300italic.d69924b9.woff2",
+  "static/media/App.css": "./static/media/profilepic_17.c5960f1e.png",
+  "static/media/jr_logo.png": "./static/media/jr_logo.2a35ed38.png",
+  "static/media/oih_logo.png": "./static/media/oih_logo.0f4587df.png",
+  "static/media/cosycafe_logo.png": "./static/media/cosycafe_logo.745e087a.png",
+  "static/media/salongharet_logo.png": "./static/media/salongharet_logo.50e753b2.png",
+  "static/media/lookonpoint_screens.png": "./static/media/lookonpoint_screens.f9bd8c79.png",
+  "static/media/rintalaventura_screens.png": "./static/media/rintalaventura_screens.67420a29.png",
+  "static/css/main.1a235055.chunk.css.map": "./static/css/main.1a235055.chunk.css.map",
+  "static/css/1.6a24770e.chunk.css.map": "./static/css/1.6a24770e.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.40d4de9f625765faeee84e9d9a6385c2.js": "./precache-manifest.40d4de9f625765faeee84e9d9a6385c2.js",
+  "service-worker.js": "./service-worker.js"
+}
