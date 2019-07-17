@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "./static/media/rintalaventuraLogoYT.8381b7c6.png"
   },
   {
-    "revision": "c4ee17c9c1c834d593cf892de7270d66",
-    "url": "./static/media/kth_logo.c4ee17c9.png"
-  },
-  {
     "revision": "c5960f1e6ea7d0389910dec2fc996db2",
     "url": "./static/media/profilepic_17.c5960f1e.png"
+  },
+  {
+    "revision": "c4ee17c9c1c834d593cf892de7270d66",
+    "url": "./static/media/kth_logo.c4ee17c9.png"
   },
   {
     "revision": "b941d9ca809c32bc4a7ccd02ed0f9dd4",
@@ -44,24 +44,24 @@ self.__precacheManifest = [
     "url": "./static/media/concert_zoomed_1.3d361b07.jpg"
   },
   {
-    "revision": "17f0c20ae1d669cc80eb428c0f80d497",
-    "url": "./static/media/baosBG_darkgray.17f0c20a.png"
-  },
-  {
     "revision": "503f84e06fbcb0a8b6c8f4a64bcc53bb",
     "url": "./static/media/headerSTHLM12.503f84e0.jpg"
   },
   {
-    "revision": "ad4f82e94aa2490ca2b6b12fc2020c39",
-    "url": "./static/media/linkedin_logo_color.ad4f82e9.png"
+    "revision": "17f0c20ae1d669cc80eb428c0f80d497",
+    "url": "./static/media/baosBG_darkgray.17f0c20a.png"
+  },
+  {
+    "revision": "af23a5d13e025af1dd66395a1e840ac0",
+    "url": "./static/media/headerSTHLM12_1.af23a5d1.jpg"
   },
   {
     "revision": "672c3bd23b08ad64b68e58b1e439020f",
     "url": "./static/media/git_logo_color.672c3bd2.png"
   },
   {
-    "revision": "af23a5d13e025af1dd66395a1e840ac0",
-    "url": "./static/media/headerSTHLM12_1.af23a5d1.jpg"
+    "revision": "ad4f82e94aa2490ca2b6b12fc2020c39",
+    "url": "./static/media/linkedin_logo_color.ad4f82e9.png"
   },
   {
     "revision": "bcb20bdd363d24e35a548d71e74c078b",
@@ -112,28 +112,28 @@ self.__precacheManifest = [
     "url": "./static/media/svensk-klassiker.4dac062c.png"
   },
   {
-    "revision": "55536c8e9e9a532651e3cf374f290ea3",
-    "url": "./static/media/roboto-latin-300.55536c8e.woff2"
+    "revision": "987b84570ea69ee660455b8d5e91f5f1",
+    "url": "./static/media/roboto-latin-100.987b8457.woff2"
   },
   {
     "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
     "url": "./static/media/roboto-latin-100.e9dbbe8a.woff"
   },
   {
-    "revision": "987b84570ea69ee660455b8d5e91f5f1",
-    "url": "./static/media/roboto-latin-100.987b8457.woff2"
-  },
-  {
     "revision": "6232f43d15b0e7a0bf0fe82e295bdd06",
     "url": "./static/media/roboto-latin-100italic.6232f43d.woff2"
   },
   {
-    "revision": "a1471d1d6431c893582a5f6a250db3f9",
-    "url": "./static/media/roboto-latin-300.a1471d1d.woff"
-  },
-  {
     "revision": "d704bb3d579b7d5e40880c75705c8a71",
     "url": "./static/media/roboto-latin-100italic.d704bb3d.woff"
+  },
+  {
+    "revision": "55536c8e9e9a532651e3cf374f290ea3",
+    "url": "./static/media/roboto-latin-300.55536c8e.woff2"
+  },
+  {
+    "revision": "a1471d1d6431c893582a5f6a250db3f9",
+    "url": "./static/media/roboto-latin-300.a1471d1d.woff"
   },
   {
     "revision": "d69924b98acd849cdeba9fbff3f88ea6",
@@ -164,12 +164,12 @@ self.__precacheManifest = [
     "url": "./static/media/roboto-latin-500.28546717.woff2"
   },
   {
-    "revision": "510dec37fa69fba39593e01a469ee018",
-    "url": "./static/media/roboto-latin-500italic.510dec37.woff2"
-  },
-  {
     "revision": "de8b7431b74642e830af4d4f4b513ec9",
     "url": "./static/media/roboto-latin-500.de8b7431.woff"
+  },
+  {
+    "revision": "510dec37fa69fba39593e01a469ee018",
+    "url": "./static/media/roboto-latin-500italic.510dec37.woff2"
   },
   {
     "revision": "ffcc050b2d92d4b14a4fcb527ee0bcc8",
@@ -208,7 +208,7 @@ self.__precacheManifest = [
     "url": "./static/media/roboto-latin-900italic.bc833e72.woff"
   },
   {
-    "revision": "a9a7aa1c67af2ddc86c206d019d115ff",
+    "revision": "8b1cd168c7df1fb0628be6f702e7335a",
     "url": "./index.html"
   }
 ];
