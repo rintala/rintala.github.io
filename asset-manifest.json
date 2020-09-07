@@ -1,7 +1,7 @@
 {
-  "main.css": "./static/css/main.3607e2c7.chunk.css",
-  "main.js": "./static/js/main.66c2287f.chunk.js",
-  "main.js.map": "./static/js/main.66c2287f.chunk.js.map",
+  "main.css": "./static/css/main.49725eb0.chunk.css",
+  "main.js": "./static/js/main.6b3cd57e.chunk.js",
+  "main.js.map": "./static/js/main.6b3cd57e.chunk.js.map",
   "static/css/1.53aea4a1.chunk.css": "./static/css/1.53aea4a1.chunk.css",
   "static/js/1.0c1c74aa.chunk.js": "./static/js/1.0c1c74aa.chunk.js",
   "static/js/1.0c1c74aa.chunk.js.map": "./static/js/1.0c1c74aa.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/lookonpoint_screens.png": "./static/media/lookonpoint_screens.f9bd8c79.png",
   "static/media/rintalaventura_screens.png": "./static/media/rintalaventura_screens.67420a29.png",
   "static/media/index.css": "./static/media/roboto-latin-900italic.bc833e72.woff",
+  "static/css/main.49725eb0.chunk.css.map": "./static/css/main.49725eb0.chunk.css.map",
   "static/css/1.53aea4a1.chunk.css.map": "./static/css/1.53aea4a1.chunk.css.map",
-  "static/css/main.3607e2c7.chunk.css.map": "./static/css/main.3607e2c7.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.72dca12a2789cb47f2598eb036e66b33.js": "./precache-manifest.72dca12a2789cb47f2598eb036e66b33.js",
+  "precache-manifest.2bd8ee778b015adc5112fdf164c86501.js": "./precache-manifest.2bd8ee778b015adc5112fdf164c86501.js",
   "service-worker.js": "./service-worker.js"
 }
